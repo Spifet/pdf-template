@@ -6,7 +6,7 @@ Powered by FPDF and Pandas libraries.
 #
 
 ### Deployed
-#### Heroku: https://pdf-template.herokuapp.com/
+#### App has no UI
 #
 
 ### Web Development
